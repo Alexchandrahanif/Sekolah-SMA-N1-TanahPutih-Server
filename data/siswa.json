@@ -1,0 +1,69 @@
+[
+  {
+    "namaLengkap": "Alex Chandra Hanif",
+    "NISN": "9876545678",
+    "tempatTanggalLahir": "Sintong, 20 Juni 2004",
+    "alamat": "Jalan Putri Hijau, Sintong Bakti",
+    "nomorTelepon": "092877187473",
+    "jenisKelamin": "Laki-laki",
+    "agama": "Islam",
+    "namaAyah": "Asmarudi",
+    "namaIbu": "Samsimar"
+  },
+  {
+    "namaLengkap": "Fahmi Abdul Yakub",
+    "NISN": "82392649287",
+    "tempatTanggalLahir": "Pekanbaru, 20 Februari 2004",
+    "alamat": "Jalan Kulim, Pekanbaru",
+    "nomorTelepon": "092877187473",
+    "jenisKelamin": "Laki-laki",
+    "agama": "Islam",
+    "namaAyah": "Santoso",
+    "namaIbu": "Julita"
+  },
+
+  {
+    "namaLengkap": "Muhammad Hafidz",
+    "NISN": "8872046720",
+    "tempatTanggalLahir": "Sintong, 20 Juni 2010",
+    "alamat": "Jalan Putri Hijau, Sintong Bakti",
+    "nomorTelepon": "087623849832",
+    "jenisKelamin": "Laki-laki",
+    "agama": "Islam",
+    "namaAyah": "Asmarudi",
+    "namaIbu": "Samsimar"
+  },
+  {
+    "namaLengkap": "Julita",
+    "NISN": "8878456319",
+    "tempatTanggalLahir": "Sedingin, 20 Maret 2010",
+    "alamat": "Jalan Tuanku Tambusai, Sedinginan",
+    "nomorTelepon": "0876908743",
+    "jenisKelamin": "Perempuan",
+    "agama": "Islam",
+    "namaAyah": "Hartono",
+    "namaIbu": "Julia"
+  },
+  {
+    "namaLengkap": "Anggun",
+    "NISN": "8872048643",
+    "tempatTanggalLahir": "Sedinginan, 6 Januari 2010",
+    "alamat": "Jalan Sudirman, Sedinginan",
+    "nomorTelepon": "08762309876",
+    "jenisKelamin": "Perempuan",
+    "agama": "Islam",
+    "namaAyah": "Supratman",
+    "namaIbu": "Anita"
+  },
+  {
+    "namaLengkap": "Melisa",
+    "NISN": "8872654321",
+    "tempatTanggalLahir": "Rengat, 20 Juli 2008",
+    "alamat": "Jalan Sudirman, Rengat",
+    "nomorTelepon": "0876879054",
+    "jenisKelamin": "Perempuan",
+    "agama": "Islam",
+    "namaAyah": "Angga",
+    "namaIbu": "Anggi"
+  }
+]

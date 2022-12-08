@@ -1,0 +1,26 @@
+[
+  {
+    "nama": "Kelas X IPA",
+    "IdGuru": 1
+  },
+  {
+    "nama": "Kelas X IPS",
+    "IdGuru": 2
+  },
+  {
+    "nama": "Kelas XI IPA",
+    "IdGuru": 3
+  },
+  {
+    "nama": "Kelas XI IPS",
+    "IdGuru": 4
+  },
+  {
+    "nama": "Kelas XII IPA",
+    "IdGuru": 5
+  },
+  {
+    "nama": "Kelas XII IPS",
+    "IdGuru": 6
+  }
+]
