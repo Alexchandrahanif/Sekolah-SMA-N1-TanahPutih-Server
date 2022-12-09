@@ -8,7 +8,8 @@
     "jenisKelamin": "Laki-laki",
     "agama": "Islam",
     "namaAyah": "Asmarudi",
-    "namaIbu": "Samsimar"
+    "namaIbu": "Samsimar",
+    "IdKelas": 1
   },
   {
     "namaLengkap": "Fahmi Abdul Yakub",
@@ -19,7 +20,8 @@
     "jenisKelamin": "Laki-laki",
     "agama": "Islam",
     "namaAyah": "Santoso",
-    "namaIbu": "Julita"
+    "namaIbu": "Julita",
+    "IdKelas": 2
   },
 
   {
@@ -31,10 +33,11 @@
     "jenisKelamin": "Laki-laki",
     "agama": "Islam",
     "namaAyah": "Asmarudi",
-    "namaIbu": "Samsimar"
+    "namaIbu": "Samsimar",
+    "IdKelas": 3
   },
   {
-    "namaLengkap": "Julita",
+    "namaLengkap": "Putri",
     "NISN": "8878456319",
     "tempatTanggalLahir": "Sedingin, 20 Maret 2010",
     "alamat": "Jalan Tuanku Tambusai, Sedinginan",
@@ -42,10 +45,11 @@
     "jenisKelamin": "Perempuan",
     "agama": "Islam",
     "namaAyah": "Hartono",
-    "namaIbu": "Julia"
+    "namaIbu": "Julia",
+    "IdKelas": 4
   },
   {
-    "namaLengkap": "Anggun",
+    "namaLengkap": "Amanda",
     "NISN": "8872048643",
     "tempatTanggalLahir": "Sedinginan, 6 Januari 2010",
     "alamat": "Jalan Sudirman, Sedinginan",
@@ -53,7 +57,8 @@
     "jenisKelamin": "Perempuan",
     "agama": "Islam",
     "namaAyah": "Supratman",
-    "namaIbu": "Anita"
+    "namaIbu": "Anita",
+    "IdKelas": 5
   },
   {
     "namaLengkap": "Melisa",
@@ -64,6 +69,7 @@
     "jenisKelamin": "Perempuan",
     "agama": "Islam",
     "namaAyah": "Angga",
-    "namaIbu": "Anggi"
+    "namaIbu": "Anggi",
+    "IdKelas": 6
   }
 ]

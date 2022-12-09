@@ -1,0 +1,178 @@
+[
+  {
+    "namaLengkap": "Putri Ningsih",
+    "NIP": "9876545678",
+    "tempatTanggalLahir": "Bandung, 20 Juni 1979",
+    "alamat": "Jalan Putri Hijau, Sintong Bakti",
+    "nomorTelepon": "092877187473",
+    "jenisKelamin": "Perempuan",
+    "agama": "Islam",
+    "pendidikanTerakhir": "S1 Bahasa Indonesia",
+    "IdKategoriGuru": 1
+  },
+  {
+    "namaLengkap": "Lisda Ika",
+    "NIP": "9876545678",
+    "tempatTanggalLahir": "Jakarta, 18 Oktober 1972",
+    "alamat": "Jalan Putri Hijau, Sintong Bakti",
+    "nomorTelepon": "092877187473",
+    "jenisKelamin": "Perempuan",
+    "agama": "Islam",
+    "pendidikanTerakhir": "S1 Bahasa Inggris",
+    "IdKategoriGuru": 2
+  },
+  {
+    "namaLengkap": "Demsi",
+    "NIP": "9876545678",
+    "tempatTanggalLahir": "semarang, 12 Januari 1964",
+    "alamat": "Jalan Tuanku Tambusai, Sedinginan",
+    "nomorTelepon": "092877187473",
+    "jenisKelamin": "Perempuan",
+    "agama": "Kristen",
+    "pendidikanTerakhir": "S1 Matematika",
+    "IdKategoriGuru": 3
+  },
+  {
+    "namaLengkap": "Ceci",
+    "NIP": "9876545678",
+    "tempatTanggalLahir": "Palembang, 9 Juni 1975",
+    "alamat": "Jalan Imam Bonjol, Banjar XII",
+    "nomorTelepon": "092877187473",
+    "jenisKelamin": "Perempuan",
+    "agama": "Islam",
+    "pendidikanTerakhir": "S1 Kimia",
+    "IdKategoriGuru": 4
+  },
+  {
+    "namaLengkap": "Jacob Perangin",
+    "NIP": "9876545678",
+    "tempatTanggalLahir": "Medan, 13 September 1965",
+    "alamat": "Jalan Perdana Halim, Sedinginan",
+    "nomorTelepon": "092877187473",
+    "jenisKelamin": "Laki-laki",
+    "agama": "Islam",
+    "pendidikanTerakhir": "S1 Biologi",
+    "IdKategoriGuru": 5
+  },
+  {
+    "namaLengkap": "Yenita",
+    "NIP": "9876545678",
+    "tempatTanggalLahir": "Balikpapan, 20 Juni 1972",
+    "alamat": "Jalan Putri Hijau, Banjar XII",
+    "nomorTelepon": "092877187473",
+    "jenisKelamin": "Perempuan",
+    "agama": "Islam",
+    "pendidikanTerakhir": "S1 Fisika",
+    "IdKategoriGuru": 6
+  },
+  {
+    "namaLengkap": "Fitri",
+    "NIP": "9876545678",
+    "tempatTanggalLahir": "Sintong, 2 Juni 1976",
+    "alamat": "Jalan Putri Hijau, Sintong Bakti",
+    "nomorTelepon": "092877187473",
+    "jenisKelamin": "Perempuan",
+    "agama": "Islam",
+    "pendidikanTerakhir": "S1 Geografi",
+    "IdKategoriGuru": 7
+  },
+  {
+    "namaLengkap": "Anggun",
+    "NIP": "9876545678",
+    "tempatTanggalLahir": "Sedinginan, 20 Maret 1964",
+    "alamat": "Jalan Imam Bonjol, Sedinginan",
+    "nomorTelepon": "092877187473",
+    "jenisKelamin": "Perempuan",
+    "agama": "Islam",
+    "pendidikanTerakhir": "S1 Sosiologi",
+    "IdKategoriGuru": 8
+  },
+  {
+    "namaLengkap": "Anita",
+    "NIP": "9876545678",
+    "tempatTanggalLahir": "Teluk Mega, 24 April 1977",
+    "alamat": "Jalan Sudirman, Teluk Mega",
+    "nomorTelepon": "092877187473",
+    "jenisKelamin": "Perempuan",
+    "agama": "Islam",
+    "pendidikanTerakhir": "S1 Ekonomi",
+    "IdKategoriGuru": 9
+  },
+  {
+    "namaLengkap": "Alex Chandra Hanif",
+    "NIP": "9876545678",
+    "tempatTanggalLahir": "Sintong, 20 Juni 1998",
+    "alamat": "Jalan Putri Hijau, Sintong Bakti",
+    "nomorTelepon": "092877187473",
+    "jenisKelamin": "Laki-laki",
+    "agama": "Islam",
+    "pendidikanTerakhir": "S1 Sistem Informasi",
+    "IdKategoriGuru": 10
+  },
+  {
+    "namaLengkap": "Yunita",
+    "NIP": "9876545678",
+    "tempatTanggalLahir": "Jakarta, 20 Juni 1958",
+    "alamat": "Jalan Sudirman, Teluk Mega",
+    "nomorTelepon": "092877187473",
+    "jenisKelamin": "Perempuan",
+    "agama": "Islam",
+    "pendidikanTerakhir": "S1 Seni Budaya",
+    "IdKategoriGuru": 11
+  },
+  {
+    "namaLengkap": "Maryadi",
+    "NIP": "9876545678",
+    "tempatTanggalLahir": "Ujung Tanjung, 20 Februari 2004",
+    "alamat": "Jalan Sudirman, Ujung tanjung",
+    "nomorTelepon": "092877187473",
+    "jenisKelamin": "Laki-laki",
+    "agama": "Islam",
+    "pendidikanTerakhir": "S1 Penjaskes",
+    "IdKategoriGuru": 12
+  },
+  {
+    "namaLengkap": "yulis",
+    "NIP": "9876545678",
+    "tempatTanggalLahir": "Sekeladi, 20 Juni 1964",
+    "alamat": "Jalan Cut nyak dien, Sekeladi",
+    "nomorTelepon": "092877187473",
+    "jenisKelamin": "Perempuan",
+    "agama": "Islam",
+    "pendidikanTerakhir": "S1 Agama Islam",
+    "IdKategoriGuru": 13
+  },
+  {
+    "namaLengkap": "Leonardo",
+    "NIP": "9876545678",
+    "tempatTanggalLahir": "Makasar, 9 Juli 1965",
+    "alamat": "Jalan Sudirman, Sedinginan",
+    "nomorTelepon": "092877187473",
+    "jenisKelamin": "Laki-laki",
+    "agama": "Islam",
+    "pendidikanTerakhir": "S1 PPKN",
+    "IdKategoriGuru": 14
+  },
+  {
+    "namaLengkap": "Wen zana",
+    "NIP": "9876545678",
+    "tempatTanggalLahir": "Medan, 13 September 1975",
+    "alamat": "Jalan Sudirman, Sedinginan",
+    "nomorTelepon": "092877187473",
+    "jenisKelamin": "Perempuan",
+    "agama": "Islam",
+    "pendidikanTerakhir": "S1 Sejarah",
+    "IdKategoriGuru": 15
+  },
+  {
+    "namaLengkap": "Pande Bosi",
+    "NIP": "9876545678",
+    "tempatTanggalLahir": "Medan, 29 Oktober 1967",
+    "alamat": "Jalan Sudirman, Sedinginan",
+    "nomorTelepon": "092877187473",
+    "jenisKelamin": "Laki-laki",
+    "agama": "Islam",
+    "pendidikanTerakhir": "S1 Teknik Lingkunagan",
+    "IdKategoriGuru": 16
+  }
+]

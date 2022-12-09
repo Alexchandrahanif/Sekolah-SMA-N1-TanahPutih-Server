@@ -41,14 +41,6 @@ module.exports = {
         type: Sequelize.STRING,
         allowNull: false,
       },
-      mataPelajaran: {
-        type: Sequelize.STRING,
-        allowNull: false,
-      },
-      jabatan: {
-        type: Sequelize.STRING,
-        allowNull: false,
-      },
       IdKategoriGuru: {
         type: Sequelize.INTEGER,
         allowNull: false,

@@ -1,51 +1,93 @@
 [
   {
-    "nama": "Bahasa Indonesia"
+    "nama": "Bahasa Indonesia Kelas X",
+    "jadwal": "Senin 07:00",
+    "IdKelas": 1,
+    "IdGuru": 1,
+    "IdKategoriMataPelajaran": 1
   },
   {
-    "nama": "Bahasa Inggris"
-  },
-
-  {
-    "nama": "Matematika"
-  },
-  {
-    "nama": "Kimia"
+    "nama": "Bahasa Inggris Kelas X",
+    "jadwal": "Senin 10:00",
+    "IdKelas": 1,
+    "IdGuru": 2,
+    "IdKategoriMataPelajaran": 1
   },
   {
-    "nama": "Biologi"
+    "nama": "Bahasa Matematika Kelas X",
+    "jadwal": "Selasa 07:00",
+    "IdKelas": 1,
+    "IdGuru": 3,
+    "IdKategoriMataPelajaran": 1
   },
   {
-    "nama": "Fisika"
+    "nama": "Kimia Kelas X",
+    "jadwal": "Selasa 10:00",
+    "IdKelas": 1,
+    "IdGuru": 4,
+    "IdKategoriMataPelajaran": 1
   },
   {
-    "nama": "Geografi"
+    "nama": "Biologi Kelas X",
+    "jadwal": "Rabu 07:00",
+    "IdKelas": 1,
+    "IdGuru": 5,
+    "IdKategoriMataPelajaran": 1
   },
   {
-    "nama": "Sosiologi"
+    "nama": "Fisika Kelas X",
+    "jadwal": "Rabu 10:00",
+    "IdKelas": 1,
+    "IdGuru": 6,
+    "IdKategoriMataPelajaran": 1
   },
   {
-    "nama": "Ekonomi"
+    "nama": "Ilmu Komputer Kelas X",
+    "jadwal": "Kamis 07:00",
+    "IdKelas": 1,
+    "IdGuru": 10,
+    "IdKategoriMataPelajaran": 1
   },
   {
-    "nama": "Ilmu Komputer"
+    "nama": "Seni Budaya Kelas X",
+    "jadwal": "Jumat 07:00",
+    "IdKelas": 1,
+    "IdGuru": 11,
+    "IdKategoriMataPelajaran": 1
   },
   {
-    "nama": "Seni Budaya"
+    "nama": "Penjaskes Kelas X",
+    "jadwal": "Jumat 10:00",
+    "IdKelas": 1,
+    "IdGuru": 12,
+    "IdKategoriMataPelajaran": 1
   },
   {
-    "nama": "Penjaskes"
+    "nama": "Agama Kelas X",
+    "jadwal": "Senin 13:00",
+    "IdKelas": 1,
+    "IdGuru": 13,
+    "IdKategoriMataPelajaran": 1
   },
   {
-    "nama": "Agama"
+    "nama": "PPKN Kelas X",
+    "jadwal": "Selasa 13:00",
+    "IdKelas": 1,
+    "IdGuru": 14,
+    "IdKategoriMataPelajaran": 1
   },
   {
-    "nama": "PPKN"
+    "nama": "Sejarah Kelas X",
+    "jadwal": "Rabu 13:00",
+    "IdKelas": 1,
+    "IdGuru": 15,
+    "IdKategoriMataPelajaran": 1
   },
   {
-    "nama": "Sejarah"
-  },
-  {
-    "nama": "PKWU"
+    "nama": "PKWU Kelas X",
+    "jadwal": "Kamis 13:00",
+    "IdKelas": 1,
+    "IdGuru": 16,
+    "IdKategoriMataPelajaran": 1
   }
 ]

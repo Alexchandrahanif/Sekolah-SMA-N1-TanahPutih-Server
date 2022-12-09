@@ -33,3 +33,5 @@ const handleError = (err, req, res, next) => {
     message: message,
   });
 };
+
+module.exports = handleError;

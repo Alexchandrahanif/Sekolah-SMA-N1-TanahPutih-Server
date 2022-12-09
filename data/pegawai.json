@@ -1,0 +1,68 @@
+[
+  {
+    "namaLengkap": "maysaroh",
+    "nomorSK": "9876545678",
+    "tempatTanggalLahir": "Sedinginan, 20 Juni 1998",
+    "alamat": "Jalan Sudirman, Sedinginan",
+    "nomorTelepon": "092877187473",
+    "jenisKelamin": "Perempuan",
+    "agama": "Islam",
+    "pendidikanTerakhir": "S1 Ekonomi",
+    "IdKategoriPegawai": 1
+  },
+  {
+    "namaLengkap": "Purti Awalia",
+    "nomorSK": "9876545678",
+    "tempatTanggalLahir": "Bandung, 20 Oktober 1997",
+    "alamat": "Jalan Imam Bonjol, Sedinginan",
+    "nomorTelepon": "092877187473",
+    "jenisKelamin": "Perempuan",
+    "agama": "Islam",
+    "pendidikanTerakhir": "S1 Akutansi",
+    "IdKategoriPegawai": 2
+  },
+  {
+    "namaLengkap": "Amelia",
+    "nomorSK": "9876545678",
+    "tempatTanggalLahir": "Jakarta, 12 Februari 1998",
+    "alamat": "Jalan Sudirman, Sedinginan",
+    "nomorTelepon": "092877187473",
+    "jenisKelamin": "Perempuan",
+    "agama": "Islam",
+    "pendidikanTerakhir": "S1 Akuntansi",
+    "IdKategoriPegawai": 3
+  },
+  {
+    "namaLengkap": "Zul Afnur",
+    "nomorSK": "9876545678",
+    "tempatTanggalLahir": "Sedinginan, 20 Maret 1998",
+    "alamat": "Jalan Imam Bonjol, Sedinginan",
+    "nomorTelepon": "092877187473",
+    "jenisKelamin": "Laki-laki",
+    "agama": "Islam",
+    "pendidikanTerakhir": "S1 Penjaskes",
+    "IdKategoriPegawai": 4
+  },
+  {
+    "namaLengkap": "Putra",
+    "nomorSK": "9876545678",
+    "tempatTanggalLahir": "Bandung, 20 Juni 1989",
+    "alamat": "Jalan Imam Bonjol, Sedinginan",
+    "nomorTelepon": "092877187473",
+    "jenisKelamin": "Laki-laki",
+    "agama": "Islam",
+    "pendidikanTerakhir": "S1 Penjaskes",
+    "IdKategoriPegawai": 5
+  },
+  {
+    "namaLengkap": "Awaludin",
+    "nomorSK": "9876545678",
+    "tempatTanggalLahir": "Bandung, 2 Oktober 1993",
+    "alamat": "Jalan Sudirman, Sedinginan",
+    "nomorTelepon": "092877187473",
+    "jenisKelamin": "Laki-laki",
+    "agama": "Islam",
+    "pendidikanTerakhir": "S1 Ilmu Komputer",
+    "IdKategoriPegawai": 6
+  }
+]

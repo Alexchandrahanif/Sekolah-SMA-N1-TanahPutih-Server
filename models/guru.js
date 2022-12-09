@@ -109,30 +109,6 @@ module.exports = (sequelize, DataTypes) => {
           },
         },
       },
-      mataPelajaran: {
-        type: DataTypes.STRING,
-        allowNull: false,
-        validate: {
-          notEmpty: {
-            msg: "Mata Pelajaran is required",
-          },
-          notNull: {
-            msg: "Mata Pelajaran is required",
-          },
-        },
-      },
-      jabatan: {
-        type: DataTypes.STRING,
-        allowNull: false,
-        validate: {
-          notEmpty: {
-            msg: "Jabatan Guru is required",
-          },
-          notNull: {
-            msg: "Jabatan Guru is required",
-          },
-        },
-      },
       IdKategoriGuru: {
         type: DataTypes.INTEGER,
         allowNull: false,
