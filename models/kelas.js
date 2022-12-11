@@ -9,6 +9,10 @@ module.exports = (sequelize, DataTypes) => {
      */
     static associate(models) {
       // define association here
+
+      Kelas.belongsTo(models.Guru, {
+        foreignKey: "IdGuru",
+      });
     }
   }
   Kelas.init(
