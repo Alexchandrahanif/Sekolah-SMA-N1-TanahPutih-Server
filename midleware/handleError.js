@@ -29,6 +29,9 @@ const handleError = (err, req, res, next) => {
   } else if (err.name === "Forbidden") {
     code = 403;
     message = "You are not authorized";
+  } else if (err.name === "Data Kategori Guru Not Found") {
+    (code = 400),
+      (message = `Data Kategori Guru dengan id ${err.id} tidak ada`);
   }
   res.status(code).json({
     message: message,

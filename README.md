@@ -26,3 +26,5 @@ Tabel :
 9. User
 
 run : npm run start
+
+link : https://sekolah-sma-n1-tanahputih-server-production.up.railway.app/
