@@ -32,6 +32,12 @@ const handleError = (err, req, res, next) => {
   } else if (err.name === "Data Kategori Guru Not Found") {
     (code = 400),
       (message = `Data Kategori Guru dengan id ${err.id} tidak ada`);
+  } else if (err.name === "Data Kategori Mata Pelajaran Not Found") {
+    (code = 400),
+      (message = `Data Kategori Mata Pelajaran dengan id ${err.id} tidak ada`);
+  } else if (err.name === "Data Kategori Pegawai Not Found") {
+    (code = 400),
+      (message = `Data Kategori Pegawai dengan id ${err.id} tidak ada`);
   }
   res.status(code).json({
     message: message,
